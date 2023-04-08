@@ -33,22 +33,7 @@ Version: 1.0.2.0
 Architecture: iphoneos-arm
 Depends: 
 Maintainer: YemNobKh <yemnobkh@gmail.com>
-Filename: /yemnob-kh.github.4gto5gios14x_1.0.2.0_iphoneos-arm.deb
-Size: 10872
-MD5sum: 68ebd9984457e31f6811fe8a1db649ac
-SHA1: 82fc789a82fd4084942979d2f81877b71ba76305
-SHA256: 1d4eaa2c9383a53f3cbf15a6e07ce0b62f43bc3ff7d702adf58cde4d0c2d6f11
-Section: Fonts
-Description: font for tweak A-Font  (font Khmer Make by ASvadek )
-Author: Yem Nob <yemnobkh@gmail.com>
-Name: 4G to 5G IOS14-16
-
-Package: com.yourepo.yemnob-kh.4gt5g
-Version: 1.0.2.0
-Architecture: iphoneos-arm
-Depends: 
-Maintainer: YemNobKh <yemnobkh@gmail.com>
-Filename: /yemnob-kh.github.4gto5gios14x_1.0.2.0_iphoneos-arm.deb
+Filename: ./debsyemnob-kh.github.4gto5gios14x_1.0.2.0_iphoneos-arm.deb
 Size: 10872
 MD5sum: 68ebd9984457e31f6811fe8a1db649ac
 SHA1: 82fc789a82fd4084942979d2f81877b71ba76305
